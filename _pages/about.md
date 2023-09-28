@@ -3,17 +3,17 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <p>Associate Professor</p>
-  <p>School of Computer Science, <a href='#'>University of Birmingham</a>. Address. Contacts. Moto. Etc.</p>
+  Associate Professor
 
 profile:
-  align: left
-  image: prof_pic.jpg
+  align: right
+  image: profile_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>E, State 12345</p>
+    <p>School of Computer Science</p>
+    <p>University of Birmingham</p>
+    <p>Edgbaston</p>
+    <p>Birmingham, UK B15 2TT</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
