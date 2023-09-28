@@ -4,14 +4,15 @@ title: about
 permalink: /
 subtitle: >
   Associate Professor, School of Computer Science
+  University of Birmingham
 
 profile:
   align: right
   image: profile_pic.png
   image_circular: true # crops the image to make it circular
-  address: >
-    <p>University of Birmingham, Edgbaston</p>
-    <p>Birmingham, UK B15 2TT</p>
+#  address: >
+#    <p>University of Birmingham, Edgbaston</p>
+#    <p>Birmingham, UK B15 2TT</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
