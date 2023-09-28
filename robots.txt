@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rcmesquita.github.io/sitemap.xml
+Sitemap: https://rcmesquita.github.io/rcmesquita//sitemap.xml
