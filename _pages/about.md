@@ -28,3 +28,5 @@ I am an Associate Professor in the School of Computer Science at the University 
 My research interests span a wide range of topics within the realm of biomedical imaging. Some of the key areas I specialize in include: clinical applications of functional near-infrared spectroscopy and diffuse correlation spectroscopy; graph theory and complex systems; biophysical modeling of neurovascular coupling. You can explore my [publications page](rcmesquita/publications/) for a list of research articles published over the years. 
 
 I am open to collaboration and welcome inquiries from students and fellow researchers who want to pursue a deep understanding on these topics. Feel free to contact me to discuss research opportunities, collaborations, or any questions you may have. 
+
+
