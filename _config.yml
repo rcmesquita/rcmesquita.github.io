@@ -278,7 +278,7 @@ scholar:
   last_name: [Mesquita]
   first_name: [Rickson, R.]
 
-  style: ieeetr
+  style: ieee
   locale: en
 
   source: /_bibliography/
