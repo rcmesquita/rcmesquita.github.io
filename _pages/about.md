@@ -2,9 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
-  Associate Professor, School of Computer Science
-  University of Birmingham
+subtitle: 
+  Associate Professor
+  School of Computer Science, University of Birmingham
 
 profile:
   align: right
