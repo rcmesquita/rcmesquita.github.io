@@ -3,15 +3,17 @@ layout: page
 title: projects
 permalink: /projects/
 description: 
-  My research interests span a wide range of topics within the realm of computational neuroscience and biomedical imaging. Some of the key areas I specialize in include <br /> 
+  My research interests span a wide range of topics within the realm of computational neuroscience and biomedical imaging. 
 nav: false
 display_categories: [work, fun]
 horizontal: false
 ---
 
-Within these domains, my research interests encompass a diverse but complementary spectrum of critical areas:
+Some of the key areas I specialize in include
   <ul>
-    <li> Graph Theory and Complex Systems - I apply graph theory and concepts from complex systems to analyze brain networks and their dynamics. This allows us to unravel the intricate relationships within the brain.
+    <li><strong>Graph Theory and Complex Systems</strong>: I apply graph theory and concepts from complex systems to analyze brain networks and their dynamics. This allows us to unravel the intricate relationships within the brain.
+    <li><strong>Clinical Applications</strong>: I am dedicated to harnessing the potential of functional near-infrared spectroscopy and diffuse correlation spectroscopy to address real-world challenges in clinical settings. These technologies have the power to transform healthcare by shedding light on the complex neural processes underlying various medical conditions.
+    <li><strong>Biophysical Modeling of Neurovascular Coupling</strong>: My research extends to biophysical modeling, where I explore the intricate relationship between neural activity and blood flow regulation. This area of study has profound implications for our understanding of neurovascular coupling, a fundamental aspect of brain function.
   </ul>
 
 
