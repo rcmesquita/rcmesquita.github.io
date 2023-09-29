@@ -5,17 +5,17 @@ permalink: /projects/
 description: 
   My research interests span a wide range of topics within the realm of computational neuroscience and biomedical imaging. 
 nav: false
-display_categories: [work, fun]
+display_categories: [work] #, fun]
 horizontal: false
 ---
 
 Some of the key areas I specialize in include
   <ul>
-    <li><strong>Graph Theory and Complex Systems</strong>: I apply graph theory and concepts from complex systems to analyze brain networks and their dynamics. This allows us to unravel the intricate relationships within the brain.
-    <li><strong>Clinical Applications</strong>: I am dedicated to harnessing the potential of functional near-infrared spectroscopy and diffuse correlation spectroscopy to address real-world challenges in clinical settings. These technologies have the power to transform healthcare by shedding light on the complex neural processes underlying various medical conditions.
-    <li><strong>Biophysical Modeling of Neurovascular Coupling</strong>: My research extends to biophysical modeling, where I explore the intricate relationship between neural activity and blood flow regulation. This area of study has profound implications for our understanding of neurovascular coupling, a fundamental aspect of brain function.
+    <li><strong>Advancing Functional Neuroimaging</strong>: I am dedicated to developing innovative techniques for functional neuroimaging, with a focus on near-infrared spectroscopy. My work in this area aims to provide a deeper understanding of brain activity and connectivity through graph theory and other concepts from complex systems that have the potential to unravel the intricate relationships within the brain. 
+    <li><strong>Transform Healthcare through Diffuse Optics</strong>: I am dedicated to harnessing the potential of near-infrared spectroscopy and diffuse correlation spectroscopy to address real-world challenges in clinical settings. These technologies have the power to revolutionize healthcare by shedding light on the complex neural processes underlying various medical conditions.
+    <li><strong>Unraveling the Brain with Biophysical Modeling</strong>. My research extends to biophysical modelling, where I explore the interplay among neural activity, metabolism, and the regulation of blood flow. By understanding this process, we can gain insight into how the brain works in a way that enables us to design novel techniques for measuring other aspects of brain physiology. These techniques, in turn, contribute to our understanding of brain injury, neurodegenerative diseases, and mental health disorders.  
   </ul>
-
+Below you can find some of the ongoing research projects I am part of:
 
 <!-- pages/projects.md -->
 <div class="projects">
