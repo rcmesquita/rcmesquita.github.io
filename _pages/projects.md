@@ -2,7 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool research projects.
+description: >
+    My research interests span a wide range of topics within the realm of computational neuroscience and biomedical imaging. 
+    Some of the key areas I specialize in include:
+    * Graph Theory and Complex Systems: I apply graph theory and concepts from complex systems to analyze brain networks and their dynamics. This allows us to unravel the intricate relationships within the brain.
 nav: true
 nav_order: 6
 display_categories: [work, fun]
