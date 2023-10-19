@@ -9,5 +9,5 @@ children:
       permalink: /projects/
     - title: divider
     - title: people
-      permalink: /repositories/
+      permalink: /people/
 ---
