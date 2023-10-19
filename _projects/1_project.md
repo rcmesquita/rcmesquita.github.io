@@ -1,9 +1,9 @@
 ---
 layout: page
-title: brain complexity
-description: understanding how brain function process information
+title: Brain Complexity
+description: Understanding how the brain process information
 img: assets/img/12.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: Novi:2016cj, Novi:nph23
 ---
