@@ -3,7 +3,7 @@ layout: page
 permalink: /people/
 title: people
 description: This is our current (and past) team
-nav: true
+nav: false
 nav_order: 4
 ---
 
