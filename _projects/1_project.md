@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: brain complexity
+description: understanding how brain function process information
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: Novi:2016cj, Novi:nph23
 ---
 
 Every project has a beautiful feature showcase page.
