@@ -1,16 +1,27 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
+# DATA ANALYSIS & METHODS
 "connectivity":
   url: https://www.spiedigitallibrary.org/journals/neurophotonics
 
 "methods":
   url: https://rcmesquita.github.io/projects/2_project/ 
 
+
+# FUNCTIONAL NEUROIMAGIG APPLICATIONS
 "development":
   url: https://rcmesquita.github.io/projects/1_project/
   color: "#4d4dff"
+
+
+# CLINICAL APPLICATIONS
+"stroke":
+  url: https://rcmesquita.github.io/projects/3_project/ 
+  color: "#006400"
+
+
+# SPECIAL CONTRIBUTIONS
+"editorial":
+  color: "#5c5c5c"
+
+"review":
+  color: "#5c5c5c"
