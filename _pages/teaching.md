@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching
+title: education
 nav: true
 nav_order: 5
 dropdown: true

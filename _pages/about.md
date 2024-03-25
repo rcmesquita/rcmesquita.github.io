@@ -23,10 +23,12 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-I am an Associate Professor in the School of Computer Science at the University of Birmingham, UK. My research is focused on developing and combining computational methods, biophysical modeling, and instrumentation for functional neuroimaging, with a particular emphasis on diffuse optical imaging. I am deeply passionate about understanding the intricacies of the brain function and how optics and computational methods can advance our knowledge in this fascinating field. 
-
-My research interests span a wide range of topics within the realm of biomedical imaging. Some of the key areas I specialize in include: clinical applications of functional near-infrared spectroscopy and diffuse correlation spectroscopy; graph theory and complex systems; biophysical modeling of neurovascular coupling. You can explore my [publications page](https://rcmesquita.github.io/publications/) for a list of research articles published over the years. 
+I am an Associate Professor in the School of Computer Science at the University of Birmingham, UK. My research is focused on developing and combining instrumentation, computational methods, and biophysical modeling for functional neuroimaging, with a particular emphasis on diffuse optical imaging (or near-infrared spectroscopy, NIRS). More specifically, my research interests span a wide range of topics within the realm of biomedical imaging. Some of the key areas I specialize in include: clinical applications of functional NIRS and diffuse correlation spectroscopy; brain connectivity and its complexity; biophysical modeling of neurovascular coupling. 
 
 I am open to collaboration and welcome inquiries from students and fellow researchers who want to pursue a deep understanding on these topics. Feel free to contact me to discuss research opportunities, collaborations, or any questions you may have. 
 
+* List of the most recent [research articles](https://rcmesquita.github.io/publications/) published over the years. 
 
+* Current [research projects](https://rcmesquita.github.io/projects/) developed in my lab. 
+
+* [Tools and patents](https://rcmesquita.github.io/repositories/) developed throughout my research and held by me. 
