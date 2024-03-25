@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
   My research interests span a wide range of topics within the realm of computational neuroscience and biomedical imaging. 
 nav: false
-display_categories: [work] #, fun]
+display_categories: #[work] #, fun]
 horizontal: false
 ---
 

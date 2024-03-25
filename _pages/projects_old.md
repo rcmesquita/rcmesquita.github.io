@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: projects-old
+permalink: /projects-old/
 description: 
   My research interests span a wide range of topics within the realm of computational neuroscience and biomedical imaging. 
 nav: false
