@@ -15,3 +15,5 @@ This is a list of general research topics I have been working on:
     <li><strong>Human Functional Neuroimaging</strong>: most developments in diffuse optics can be combined with biophysical modelling to better understand the interplay among neural activity, metabolism, and the regulation of blood flow. By understanding these relationships, we can gain insight into the details of brain function and the limitations of neuroimaging methods. In parallel, the knowledge of these relationships allow us to unravel the intricate relationships within the brain and its complexity.</li>
     <li><strong>Clinical Applications</strong>: the advancements of diffuse optics can be translated into clinical settings to address real-world challenges. I believe diffuse optics have the power to revolutionize healthcare by addressing niches that other current existing techniques fall short, particularly in situations where continuous, bedside monitoring can make a difference.<li>
   </ul> 
+
+.
