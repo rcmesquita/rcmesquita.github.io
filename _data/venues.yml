@@ -5,6 +5,11 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-"Neurophotonics":
+"connectivity":
   url: https://www.spiedigitallibrary.org/journals/neurophotonics
 
+"methods":
+  url: https://www.spiedigitallibrary.org/journals/neurophotonics  
+
+"development":
+  color: "#4d4dff"
