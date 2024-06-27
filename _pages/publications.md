@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: peer-reviewed publications in scientific journals
+description: complete papers in scientific journals, conference proceedings, and book chapters
 nav: true
 nav_order: 3
 ---
