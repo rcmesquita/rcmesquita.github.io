@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /repositories/
+permalink: /tools/
 title: tools
 description: A list of developed solutions available for other researchers. #Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
 nav: true
@@ -8,6 +8,12 @@ nav_order: 4
 ---
 
 Over the year we have come up with several solutions in biomedical optics that are freely available to other researchers to use. 
+
+## Patents
+
+* Busch, David R.; Parthasarathy, Ashwin B.; Baker, Wesley B.; Chandra, Malavika; Mesquita, Rickson C.; Licht, Daniel J.; Yodh, Arjun G.; Abramson, Kenneth (2020). *Pressure modulation, motion detection, individualized geometry, and improved optic-skin coupling to improve long term clinical monitoring with diffuse optics.* US 10,827,976. USPTO [link](https://patents.google.com/patent/US10827976B2/en)
+
+* 
 
 <!-- ## GitHub users
 
