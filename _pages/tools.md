@@ -11,9 +11,13 @@ Over the year we have come up with several solutions in biomedical optics that a
 
 ## Patents
 
-* Busch, David R.; Parthasarathy, Ashwin B.; Baker, Wesley B.; Chandra, Malavika; Mesquita, Rickson C.; Licht, Daniel J.; Yodh, Arjun G.; Abramson, Kenneth (2020). *Pressure modulation, motion detection, individualized geometry, and improved optic-skin coupling to improve long term clinical monitoring with diffuse optics.* US 10,827,976. USPTO [link](https://patents.google.com/patent/US10827976B2/en)
+* Busch, David R.; Parthasarathy, Ashwin B.; Baker, Wesley B.; Chandra, Malavika; Mesquita, Rickson C.; Licht, Daniel J.; Yodh, Arjun G.; Abramson, Kenneth (2020). *Pressure modulation, motion detection, individualized geometry, and improved optic-skin coupling to improve long term clinical monitoring with diffuse optics.* US 10,827,976. USPTO [(link)](https://patents.google.com/patent/US10827976B2/en)
 
-* 
+* Baker, Wesley B.; Yodh, Arjun G.; Busch, David R.; Parthasarathy, Ashwin B.; Mesquita, Rickson C.; Chandra, Malavika (2019). *Probes and pressure modulation algorithms for reducing extratissue contamination in hemodynamic measurement.* US 10,342,488. USPTO [(link)](https://patents.google.com/patent/US10342488B2/en)
+
+
+
+
 
 <!-- ## GitHub users
 
