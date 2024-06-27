@@ -6,8 +6,33 @@
 "data analysis":
   url: https://rcmesquita.github.io/projects/2_project/ 
 
-"optimization":
+"dcs":
   url: https://rcmesquita.github.io/projects/2_project/ 
+
+"computer vision":
+  url: https://rcmesquita.github.io/projects/2_project/ 
+
+"fNIRS":
+  url: https://rcmesquita.github.io/projects/2_project/ 
+
+"instrumentation":
+  url: https://rcmesquita.github.io/projects/2_project/ 
+
+"modelling":
+  url: https://rcmesquita.github.io/projects/2_project/ 
+
+"complexity":
+  url: https://rcmesquita.github.io/projects/2_project/ 
+
+"imaging":
+  url: https://rcmesquita.github.io/projects/2_project/ 
+
+"photoacoustics":
+  url: https://rcmesquita.github.io/projects/2_project/ 
+
+"pdt":
+  url: https://rcmesquita.github.io/projects/2_project/ 
+
 
 
 # FUNCTIONAL NEUROIMAGIG APPLICATIONS
@@ -18,6 +43,15 @@
 "cognition":
   url: https://rcmesquita.github.io/projects/1_project/
   color: "#4d4dff"
+
+"brain modulation":
+  url: https://rcmesquita.github.io/projects/1_project/
+  color: "#4d4dff"
+
+"speech":
+  url: https://rcmesquita.github.io/projects/1_project/
+  color: "#4d4dff"
+
 
 
 # CLINICAL APPLICATIONS
@@ -33,9 +67,37 @@
   url: https://rcmesquita.github.io/projects/3_project/ 
   color: "#006400"
 
+"neurovascular":
+  url: https://rcmesquita.github.io/projects/3_project/ 
+  color: "#006400"
+
+"critical care":
+  url: https://rcmesquita.github.io/projects/3_project/ 
+  color: "#006400"
+
+"anesthesiology":
+  url: https://rcmesquita.github.io/projects/3_project/ 
+  color: "#006400"
+
+"muscle":
+  url: https://rcmesquita.github.io/projects/3_project/ 
+  color: "#006400"
+
+"spinal cord":
+  url: https://rcmesquita.github.io/projects/3_project/ 
+  color: "#006400"
+
+"cancer":
+  url: https://rcmesquita.github.io/projects/3_project/ 
+  color: "#006400"
+
+
 # SPECIAL CONTRIBUTIONS
 "editorial":
   color: "#5c5c5c"
 
 "review":
   color: "#5c5c5c"
+
+"molecular biology":
+  color: "#006400"
