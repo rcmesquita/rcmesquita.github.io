@@ -3,12 +3,19 @@
 "connectivity":
   url: https://www.spiedigitallibrary.org/journals/neurophotonics
 
-"methods":
+"data analysis":
+  url: https://rcmesquita.github.io/projects/2_project/ 
+
+"optimization":
   url: https://rcmesquita.github.io/projects/2_project/ 
 
 
 # FUNCTIONAL NEUROIMAGIG APPLICATIONS
 "development":
+  url: https://rcmesquita.github.io/projects/1_project/
+  color: "#4d4dff"
+
+"cognition":
   url: https://rcmesquita.github.io/projects/1_project/
   color: "#4d4dff"
 
