@@ -14,6 +14,9 @@ Over the year we have come up with several solutions in biomedical optics that a
 * **Neuronavigator**: VMTK-Neuro is a suite of visual manipulation tools for neuroimages developed by our collaborator Prof. Wu Shin-Ting at the University of Campinas, Brazil. The fNIRS neuronavigation tool was part of José Angel Iván Rubianes Silva's Ph.D. thesis. One can download a free [Windows-based](http://www.dca.fee.unicamp.br/projects/mtk/rubianesD/files/VMTK-NIRS_Neuronavegation_ICP.zip) version of VMTK-Neuro with the fNIRS extension. The neuronavigation function requires the Fastrak Polhemus digitizer. Please check the [tutorial webpage](https://www.dca.fee.unicamp.br/projects/mtk/rubianesD/videos.html) (in Portuguese) to understand how to visualize the cortical surface, how to calibrate the digitizer with respect to a guiding MRI volume, and the tests performed to evaluate the number of pairs of points necessary for a precise calibration.
 
 
+## instruments
+
+
 
 ## patents
 
@@ -25,7 +28,7 @@ Over the year we have come up with several solutions in biomedical optics that a
 
 
 
-<!-- ## GitHub users
+ ## GitHub users
 
 {% if site.data.repositories.github_users %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">

@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rcmesquita
+  
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - rcmesquita/rsFC-fnirs-course
