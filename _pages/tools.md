@@ -15,7 +15,7 @@ Over the year we have come up with several solutions in biomedical optics that a
 
 * Baker, Wesley B.; Yodh, Arjun G.; Busch, David R.; Parthasarathy, Ashwin B.; Mesquita, Rickson C.; Chandra, Malavika (2019). *Probes and pressure modulation algorithms for reducing extratissue contamination in hemodynamic measurement.* US 10,342,488. USPTO [(link)](https://patents.google.com/patent/US10342488B2/en)
 
-
+* Floyd, Thomas F.; Yodh, Arjun G.; Mesquita, Rickson C. (2018). *Fiber optic flow and oxygenation monitoring using diffuse correlation and reflectance.* US 10,064,554. USPTO [(link)](https://patents.google.com/patent/WO2013090658A1/en)
 
 
 
