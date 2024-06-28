@@ -22,18 +22,15 @@ Over the years, my team's research efforts have led to novel solutions that we a
 
 ## instruments
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center" style="margin-top: 20px;">
     <div class="col-sm-8 mt-3 mt-md-0">
-        **Real-time Metabolic Monitor**: The metabolic monitor is a hybrid optical system combining diffuse optical spectroscopy (DOS) and diffuse correlation spectroscopy (DCS) to measure simultaneous blood flow and oxygenation. By combining these two physiological parameters one can estimate relative changes in metabolic rate of oxygen (MRO2) to provide a noninvasive, all-optical measurement of metabolic and hemodynamic of tissue in vivo. Our current version of the metabolic monitor employs a commercial frequency-domain (FD) DOS with 8 sources (each source has 4 wavelengths) and 4 detectors, and a homemade DCS module with 1 source and 16 detectors. The system is used for research purposes, only (i.e., it is not yet approved for wide clinical use).
+        <h4><strong>real-time metabolic monitor</strong></h4>
+        The metabolic monitor is a hybrid optical system combining diffuse optical spectroscopy (DOS) and diffuse correlation spectroscopy (DCS) to measure simultaneous blood flow and oxygenation. By combining these two physiological parameters one can estimate relative changes in metabolic rate of oxygen (MRO2) to provide a noninvasive, all-optical measurement of metabolic and hemodynamic of tissue in vivo. Our current version of the metabolic monitor employs a commercial frequency-domain (FD) DOS with 8 sources (each source has 4 wavelengths) and 4 detectors, and a homemade DCS module with 1 source and 16 detectors. The system is used for research purposes, only (i.e., it is not yet approved for wide clinical use).
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-
-
-* **Real-time Metabolic Monitor**: The metabolic monitor is a hybrid optical system combining diffuse optical spectroscopy (DOS) and diffuse correlation spectroscopy (DCS) to measure simultaneous blood flow and oxygenation. By combining these two physiological parameters one can estimate relative changes in metabolic rate of oxygen (MRO2) to provide a noninvasive, all-optical measurement of metabolic and hemodynamic of tissue in vivo. Our current version of the metabolic monitor employs a commercial frequency-domain (FD) DOS with 8 sources (each source has 4 wavelengths) and 4 detectors, and a homemade DCS module with 1 source and 16 detectors. The system is used for research purposes, only (i.e., it is not yet approved for wide clinical use).
 
 ---
 
