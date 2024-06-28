@@ -7,7 +7,7 @@ nav: false
 nav_order: 4
 ---
 
-## current members
+## current team
 
 Over the past decades, I have had the privilege of working with a talented, proactive, and diverse group of researchers, students, and research assistants. 
 
@@ -35,6 +35,21 @@ If you want to be part of my group and, most importantly, help advance neuroscie
 
 <div class="row justify-content-sm-center" style="margin-top: 20px;">
     <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/lbortoletto.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <h5><strong>Luis F. Bortoletto</strong></h5>
+        Luis is a PhD candidate at the University of Campinas studying how fNIRS and other wearable devices can be used to understand anxiey and anxiety disorders in natural settings. He obtained his B.S. in Physics from the same University in 2021.
+        <div class="mt-3">
+            <a href="https://www.linkedin.com/in/luis-felipe-bortoletto-756723237/" target="_blank">
+                <img src="../assets/img/linkedin-logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;">
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="row justify-content-sm-center" style="margin-top: 20px;">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/vsanchez.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -50,19 +65,4 @@ If you want to be part of my group and, most importantly, help advance neuroscie
 
 
 
-<div class="row justify-content-sm-center" style="margin-top: 20px;">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/lbortoletto.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <h5><strong>Luis F. Bortoletto</strong></h5>
-        Luis is a PhD candidate at the University of Campinas studying how fNIRS and other wearable devices can be used to understand anxiey and anxiety disorders in natural settings. He obtained his B.S. in Physics from the same University in 2021.
-        <div class="mt-3">
-            <a href="https://www.linkedin.com/in/luis-felipe-bortoletto-756723237/" target="_blank">
-                <img src="../assets/img/linkedin-logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;">
-            </a>
-        </div>
-    </div>
-</div>
-
-
+## alumni
