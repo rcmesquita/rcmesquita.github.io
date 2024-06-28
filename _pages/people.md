@@ -20,12 +20,20 @@ We value a diverse group of researchers, students, and research assistants. Feel
     <div class="col-sm-8 mt-3 mt-md-0">
         <h5><strong>Dr. Rickson C. Mesquita</strong></h5>
         Associate Professor at the School of Computer Science, University of Birmingham. Dr. Mesquita is interested in developing diffuse optical methods for neuroscience and neuroimaging, with a particular emphasis in computational and biophysical modelling of neurophysiology.
+        <div class="mt-3">
+            <a href="https://www.linkedin.com/in/rickson-mesquita/" target="_blank">
+                <img src="assets/img/linkedin-logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;">
+            </a>
+            <a href="https://github.com/rcmesquita" target="_blank">
+                <img src="assets/img/github-logo.jpg" alt="GitHub" style="width: 30px; height: 30px;">
+            </a>
+        </div>
     </div>
 </div>
 
 <div class="row justify-content-sm-center" style="margin-top: 20px;">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/vsanchez.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vsanchez.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
         <h5><strong>Victor J. Sanchez</strong></h5>
