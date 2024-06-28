@@ -37,12 +37,12 @@ Over the years, my team's research efforts have led to novel solutions that we a
 ## software
 
 <div class="row justify-content-sm-center" style="margin-top: 20px;">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         <h5><strong>neuronavigator</strong></h5>
-        VMTK-Neuro is a suite of visual manipulation tools for neuroimages developed by our collaborator Prof. Wu Shin-Ting at the University of Campinas, Brazil. The fNIRS neuronavigation tool was part of José Angel Iván Rubianes Silva's Ph.D. thesis. One can download a free [Windows-based](http://www.dca.fee.unicamp.br/projects/mtk/rubianesD/files/VMTK-NIRS_Neuronavegation_ICP.zip) version of VMTK-Neuro with the fNIRS extension. The neuronavigation function requires the Fastrak Polhemus digitizer. Please check the [tutorial webpage](https://www.dca.fee.unicamp.br/projects/mtk/rubianesD/videos.html) (in Portuguese) to understand how to visualize the cortical surface, how to calibrate the digitizer with respect to a guiding MRI volume, and the tests performed to evaluate the number of pairs of points necessary for a precise calibration.
+        VMTK-Neuro is a suite of visual manipulation tools for neuroimages developed by our collaborator Prof. Wu Shin-Ting at the University of Campinas, Brazil. The fNIRS neuronavigation tool was part of José Angel Iván Rubianes Silva's Ph.D. thesis. One can download a free <a href="http://www.dca.fee.unicamp.br/projects/mtk/rubianesD/files/VMTK-NIRS_Neuronavegation_ICP.zip" target="_new">Windows-based</a> version of VMTK-Neuro with the fNIRS extension. The neuronavigation function requires the Fastrak Polhemus digitizer. Please check the <a href="https://www.dca.fee.unicamp.br/projects/mtk/rubianesD/videos.html" target="_new">tutorial webpage</a> (in Portuguese) to understand how to visualize the cortical surface, how to calibrate the digitizer with respect to a guiding MRI volume, and the tests performed to evaluate the number of pairs of points necessary for a precise calibration.
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/vmtk-neuronavigator.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/vmtk-neuronavigator.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
