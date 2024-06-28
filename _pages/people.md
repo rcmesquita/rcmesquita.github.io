@@ -22,10 +22,10 @@ We value a diverse group of researchers, students, and research assistants. Feel
         Associate Professor at the School of Computer Science, University of Birmingham. Dr. Mesquita is interested in developing diffuse optical methods for neuroscience and neuroimaging, with a particular emphasis in computational and biophysical modelling of neurophysiology.
         <div class="mt-3">
             <a href="https://www.linkedin.com/in/rickson-mesquita/" target="_blank">
-                <img src="assets/img/linkedin-logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;">
+                <img src="../assets/img/linkedin-logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;">
             </a>
             <a href="https://github.com/rcmesquita" target="_blank">
-                <img src="assets/img/github-logo.jpg" alt="GitHub" style="width: 30px; height: 30px;">
+                <img src="../assets/img/github-logo.jpg" alt="GitHub" style="width: 30px; height: 30px;">
             </a>
         </div>
     </div>
