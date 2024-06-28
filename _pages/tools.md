@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-Over the years, my team's research efforts have led to novel solutions that we attempt to make available to the wider community in applied research and companies interested in accelerating neuroscience and/or healthcare. 
+Over the years, our research efforts have led to novel solutions that we attempt to make available to the wider community in applied research and companies interested in accelerating neuroscience and/or healthcare. 
 
 
 ## patents
@@ -25,7 +25,7 @@ Over the years, my team's research efforts have led to novel solutions that we a
 <div class="row justify-content-sm-center" style="margin-top: 20px;">
     <div class="col-sm-8 mt-3 mt-md-0">
         <h5><strong>real-time metabolic monitor</strong></h5>
-        The metabolic monitor is a hybrid optical system combining diffuse optical spectroscopy (DOS) and diffuse correlation spectroscopy (DCS) to measure simultaneous blood flow and oxygenation. By combining these two physiological parameters one can estimate relative changes in metabolic rate of oxygen (MRO2) to provide a noninvasive, all-optical measurement of metabolic and hemodynamic of tissue in vivo. Our current version of the metabolic monitor employs a commercial frequency-domain (FD) DOS with 8 sources (each source has 4 wavelengths) and 4 detectors, and a homemade DCS module with 1 source and 16 detectors. The system is used for research purposes, only (i.e., it is not yet approved for wide clinical use).
+        The metabolic monitor is a hybrid optical system combining diffuse optical spectroscopy (DOS) and diffuse correlation spectroscopy (DCS) to measure simultaneous blood flow and oxygenation. By combining these two physiological parameters one can estimate relative changes in metabolic rate of oxygen (MRO<sub>2</sub>) to provide a noninvasive, all-optical measurement of metabolic and hemodynamic of tissue in vivo. Our current version of the metabolic monitor employs a commercial frequency-domain (FD) DOS with 8 sources (each source has 4 wavelengths) and 4 detectors, and a homemade DCS module with 1 source and 16 detectors. The system is used for research purposes, only (i.e., it is not yet approved for wide clinical use).
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/dcs-unicamp.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -75,7 +75,7 @@ Over the years, my team's research efforts have led to novel solutions that we a
 {% endif %}
 {% endif %} -->
 
-## github public repositories
+## public repositories
 
 {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">

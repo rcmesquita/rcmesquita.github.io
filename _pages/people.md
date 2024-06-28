@@ -7,5 +7,40 @@ nav: false
 nav_order: 4
 ---
 
-Page under construction. 
+## current members
+
+We value a diverse group of researchers, students, and research assistants. Feel free to contact me to be part of our group and help advance neuroscience and medicine through optical imaging! 
+<p> </p>
+---
+
+<div class="row justify-content-sm-center" style="margin-top: 20px;">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rmesquita.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <h5><strong>Dr. Rickson C. Mesquita</strong></h5>
+        Associate Professor at the School of Computer Science, University of Birmingham. Dr. Mesquita is interested in developing diffuse optical methods for neuroscience and neuroimaging, with a particular emphasis in computational and biophysical modelling of neurophysiology.
+    </div>
+</div>
+
+<div class="row justify-content-sm-center" style="margin-top: 20px;">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/vsanchez.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <h5><strong>Victor J. Sanchez</strong></h5>
+        Victor is a PhD student at the University of Campinas working with functional connectivity and analyzing brain complexity as captured with fNIRS under several scenarios. He obtained his B.S. in Physics from the National Polytechnic School in Ecuador, and his M.Sc. in Applied Physics at the University of São Paulo, Brazil.
+    </div>
+</div>
+
+<div class="row justify-content-sm-center" style="margin-top: 20px;">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/lbortoletto.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <h5><strong>Luis F. Bortoletto</strong></h5>
+        Luis is a PhD student at the University of Campinas studying how fNIRS and other wearable devices can be used to understand anxiey and anxiety disorders in natural settings. He obtained his B.S. in Physics from the same University in 2021.
+    </div>
+</div>
+
 
