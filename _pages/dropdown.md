@@ -7,6 +7,7 @@ dropdown: true
 children:
     - title: themes
       permalink: /research_themes/
+    - title: divider
     - title: projects
       permalink: /projects/
     - title: divider
