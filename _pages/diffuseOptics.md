@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Diffuse Optics
+permalink: /diffuse-optics/
 description: Using light to inform about tissue physiology
 related_publications: Novi:2016cj, Novi:nph23
 ---
