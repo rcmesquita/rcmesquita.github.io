@@ -4,7 +4,8 @@ title: about
 permalink: /
 subtitle: # >    the ">" symbol means to ignore newlines until "footer_text:"
   Associate Professor <br />
-  School of Computer Science, University of Birmingham
+  School of Computer Science<br />
+  University of Birmingham, UK
 
 profile:
   align: right
@@ -23,7 +24,7 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-I am an Associate Professor in the School of Computer Science at the University of Birmingham, UK. My research is focused on developing and combining instrumentation, computational methods, and biophysical modeling for functional neuroimaging, with a particular emphasis on diffuse optical imaging (or near-infrared spectroscopy, NIRS). More specifically, my research interests span a wide range of topics within the realm of biomedical imaging. Some of the key areas I specialize in include: clinical applications of functional NIRS and diffuse correlation spectroscopy; brain connectivity and its complexity; biophysical modeling of neurovascular coupling. 
+Welcome to my academic website! My research is focused on developing and combining optical instrumentation, computational methods, and biophysical modeling for functional neuroimaging, with emphasis on functional near-infrared spectroscopy (fNIRS) and imaging techniques. I am particularly interested in developing better instrumentation for assessing neurophysiological quantities such as cerebral blood flow and oxygen consumption, and  utilising these fNIRS-based techniques to better understand brain function from an integrative perspective. Some of the key areas I specialize in include: clinical applications of functional NIRS and diffuse correlation spectroscopy (DCS); brain connectivity and its complexity; biophysical modelling of neurovascular coupling. 
 
 I am open to collaboration and welcome inquiries from students and fellow researchers who want to pursue a deep understanding on these topics. Feel free to contact me to discuss research opportunities, collaborations, or any questions you may have. 
 
