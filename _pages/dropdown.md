@@ -4,7 +4,9 @@ title: research
 nav: true
 nav_order: 1
 dropdown: true
-children: 
+children:
+    - title: themes
+      permalink: /research_themes/
     - title: projects
       permalink: /projects/
     - title: divider
