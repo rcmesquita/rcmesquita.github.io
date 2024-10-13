@@ -24,9 +24,9 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-Welcome to my academic website! My research is focused on developing and combining optical instrumentation, computational methods, and biophysical modeling for functional neuroimaging, with emphasis on functional near-infrared spectroscopy (fNIRS) and imaging techniques. I am particularly interested in developing better instrumentation for assessing neurophysiological quantities such as cerebral blood flow and oxygen consumption, and  utilising these fNIRS-based techniques to better understand brain function from an integrative perspective. Some of the key areas I specialize in include: clinical applications of functional NIRS and diffuse correlation spectroscopy (DCS); brain connectivity and its complexity; biophysical modelling of neurovascular coupling. 
+Welcome to my academic website! My research focuses on developing and combining optical instrumentation, computational methods, and biophysical modeling to explore tissue physiology, with emphasis on functional near-infrared spectroscopy (fNIRS) and related techniques. I am particularly interested in improving instrumentation for assessing neurophysiological parameters (such as cerebral blood flow and oxygen consumption) and utilising these fNIRS-based techniques to better investigate brain function from an integrative perspective. 
 
-I am open to collaboration and welcome inquiries from students and fellow researchers who want to pursue a deep understanding on these topics. Feel free to contact me to discuss research opportunities, collaborations, or any questions you may have. 
+Some key areas of expertise include clinical applications of fNIRS and diffuse correlation spectroscopy (DCS), brain connectivity and its underlying complexity, and the biophysical modelling of neurovascular coupling. I am always open to collaboration and welcome inquiries from students, researchers, and colleagues interested in these topics. Please feel free to reach out to discuss research opportunities, potential collaborations, or any questions you may have. 
 
 * List of the most recent [research articles](https://rcmesquita.github.io/publications/) published over the years. 
 
