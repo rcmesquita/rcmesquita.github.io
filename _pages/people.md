@@ -50,6 +50,21 @@ If you want to be part of my group and, most importantly, help advance neuroscie
 
 <div class="row justify-content-sm-center" style="margin-top: 20px;">
     <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/bfry.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <h5><strong>Ben Fry</strong></h5>
+        Ben is a PhD student studying the instrumentation and data analysis algorithms for diffuse correlation spectroscopy and diffuse optical spectroscopy. With a background in mathematics and artificial intelligence, he’s interested in the application of machine learning to improving optical parameters value recovery from DCS and DOS boundary data allowing the estimation of clinically relevant markers.
+        <div class="mt-3">
+            <a href="https://www.linkedin.com/in/ben-fry-3aa23731a/" target="_blank">
+                <img src="../assets/img/linkedin-logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;">
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="row justify-content-sm-center" style="margin-top: 20px;">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/vsanchez.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
