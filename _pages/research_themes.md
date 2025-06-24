@@ -50,21 +50,6 @@ Our lab uses DCS to monitor blood flow in critical scenarios, such as in neuro-i
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <a href="/diffuse-optics/">
-            Quantitative Optical Imaging: Methods, Models, and Instrumentation
-        </a>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        Network Neuroscience with fNIRS: Complexity, Connectivity, and Brain Dynamic
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        Clinical and Translational Neurophotonics
-    </div>
-</div>
-
-<!--
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <a href="/diffuse-optics/">
             {% include figure.html path="assets/img/diffuse-optics.png" title="example image" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
@@ -76,5 +61,4 @@ Our lab uses DCS to monitor blood flow in critical scenarios, such as in neuro-i
     </div>
 </div>
 
--->
 
